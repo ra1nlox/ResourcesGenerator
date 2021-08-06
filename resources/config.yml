@@ -1,0 +1,4 @@
+texts:
+  onEnable: Plugin ResourcesGenerator is enabled now
+  onDisable: Plugin ResourcesGenerator is disabled now
+  theFlood: Конец всему живому...

@@ -1,0 +1,11 @@
+name: ResourcesGenerator
+main: md.rainlox.generatorPlugin.Main
+version: 1.0
+api-version: 1.13
+commands:
+  generate:
+    description: generate ores, first coords must be smaller than second
+    usage: /generate <first X coord> <second X coord> <first Z coord> <second Z coord>
+  eggs:
+    description: not for your eyes
+    usage: /eggs <argument for admins>
